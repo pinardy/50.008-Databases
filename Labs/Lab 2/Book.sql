@@ -1,5 +1,7 @@
 /***************************
+
 Computer science 
+
 ***************************/
 
 insert into book values ('Photoshop Elements 9: The Missing Manual','paperback','640','English','Barbara Brundage','Pogue Press','2010','1449389678','978-1449389673');
@@ -72,7 +74,9 @@ insert into book values ('Professional Android 2 Application Development (Wrox P
 insert into book values ('Succeeding with Agile: Software Development Using Scrum','paperback','504','English','Mike Cohn','Addison-Wesley Professional','2009','0321579364','978-0321579362');
 
 /***************************
+
 Engineering
+
 ***************************/
 
 insert into book values ('Quantitative Chemical Analysis','hardcover','928','English','Daniel C. Harris','W. H. Freeman','2002','0716744643','978-0716744641');
@@ -143,7 +147,9 @@ insert into book values ('Statistics for Engineers and Scientists','hardcover','
 insert into book values ('Introduction to Statistical Quality Control','hardcover','734','English','Douglas C. Montgomery','Wiley','2008','0470169923','978-0470169926');
 
 /***************************
+
 Arts & social science (history)
+
 ***************************/
 
 
@@ -173,7 +179,9 @@ insert into book values ('Strangers from a Different Shore: A History of Asian A
 insert into book values ('Krakatoa: The Day the World Exploded: August 27, 1883','paperback','464','English','Simon Winchester','Harper Perennial','2005','0060838590','978-0060838591');
 
 /***************************
+
 Arts & social science (language)
+
 ***************************/
 
 insert into book values ('Thus Spoke Zarathustra (Selections) / Also sprach Zarathustra (Auswahl): A Dual-Language Book (Dual-Language Books)','paperback','240','English','Friedrich Nietzsche','Dover Publications','2004','0486437116','978-0486437118');
@@ -202,7 +210,9 @@ insert into book values ('Integrated Chinese: Level 2 Part 2 Workbook (Chinese E
 
 
 /***************************
+
 Arts & social science (geography)
+
 ***************************/
 
 insert into book values ('Guns, Germs, and Steel: The Fates of Human Societies','paperback','496','English','Jared M. Diamond','W. W. Norton & Company','1999','0393317552','978-0393317558');
@@ -220,7 +230,9 @@ insert into book values ('Cities of the World: World Regional Urban Development'
 
 
 /***************************
+
 Arts & social science (economics)
+
 ***************************/
 
 insert into book values ('The Communist Manifesto (Norton Critical Editions)','paperback','224','English','Karl Marx','W. W. Norton & Company','1988','0393956164','978-0393956160');
@@ -250,7 +262,9 @@ insert into book values ('Principles of Microeconomics and ActiveEcon CD Package
 
 
 /***************************
+
 Science (biology)
+
 ***************************/
 
 
@@ -279,7 +293,9 @@ insert into book values ('Plant Physiology, Fifth Edition','hardcover','782','En
 insert into book values ('The Modern Middle East: A History','hardcover','368','English','James L. Gelvin','Oxford University Press, USA ','2004','0195167880','978-0195167887');
 
 /***************************
+
 Science (chemistry)
+
 ***************************/
 
 insert into book values ('Kaplan MCAT General Chemistry Review','paperback','464','English','Kaplan','Kaplan Publishing','2010','1607146398','978-1607146391');
@@ -296,7 +312,9 @@ insert into book values ('Organic Chemistry I as a Second Language: Translating 
 insert into book values ('Organic Chemistry I As a Second Language: Translating the Basic Concepts','paperback','363','English','David R. Klein','John Wiley & Sons','2011','111801040X','978-1118010402');
 
 /***************************
+
 Science (mathematics)
+
 ***************************/
 
 insert into book values ('Kaplan AP Calculus AB & BC 2011 (Kaplan Ap Calculus Ab and Bc)','paperback','624','English','Tamara Lefcourt Ruby, James Sellers, Lisa Korf, Jeremy Van Horn, Mike Munn','Kaplan Publishing ','2010','1607145251','978-1607145257');
@@ -326,7 +344,9 @@ insert into book values ('Algebra and Trigonometry with Analytic Geometry (with 
 
 
 /***************************
+
 Science (physics)
+
 ***************************/
 
 insert into book values ('Sidelights On Relativity','hardcover','26','English','Albert Einstein','Kessinger Publishing, LLC ','2010','1169173802','978-1169173804');
@@ -342,7 +362,9 @@ insert into book values ('A Brief History of Time','hardcover','224','English','
 insert into book values ('The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos','hardcover','384','English','Brian Greene','Knopf ','2011','0307265633','978-0307265630');
 
 /***************************
+
 General readings
+
 ***************************/
 
 insert into book values ('Frankenstein (Cambridge Literature)','paperback','286','English','Mary Shelley','Cambridge University Press ','1998','0521587026','978-0521587020');
